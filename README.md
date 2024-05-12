@@ -1,5 +1,8 @@
 # 1 实验内容
- 构建首个Kotlin交互应用  
+- 安装AndroidStudio4.1+以上版本，后续更好的使用 TensorFlowLite
+- 按照教程构建首个Kotlin交互应用
+- 上传代码至Github，并撰写详细的Readme文档
+  
 # 2 实验记录
 ## 2.1 项目准备与虚拟环境
 打开Android Studio。选择File下的new project。
